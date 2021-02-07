@@ -4,7 +4,7 @@
 
 # Deployed at [Click here](https://kartshop.herokuapp.com/)
 
-<img src="/2021-02-07.png">
+![screenshoot](https://github.com/Deepak00619/shopkart-MERN-app/blob/master/uploads/2021-02-07%20(2).png)
 
 ## Features
 
