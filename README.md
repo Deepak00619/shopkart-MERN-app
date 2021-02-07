@@ -4,7 +4,7 @@
 
 # Deployed at [Click here](https://kartshop.herokuapp.com/)
 
-
+<img src="/2021-02-07.png">
 
 ## Features
 
