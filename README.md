@@ -2,6 +2,8 @@
 
 > eCommerce platform built with the MERN stack & Redux.
 
+# Deployed at [Click here](https://kartshop.herokuapp.com/)
+
 
 
 ## Features

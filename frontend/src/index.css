@@ -7,12 +7,12 @@ h3 {
 }
 
 h1 {
-  font-size: 1.8rem;
+  font-size: 1.5rem;
   padding: 1rem 0;
 }
 
 h2 {
-  font-size: 1.4rem;
+  font-size: 1.2rem;
   padding: 0.5rem 0;
 }
 
@@ -36,7 +36,7 @@ h2 {
 }
 
 .carousel img {
-  height: 300px;
+  height: 295px;
   padding: 30px;
   margin: 40px;
   border-radius: 50%;
